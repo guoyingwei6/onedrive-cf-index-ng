@@ -18,7 +18,7 @@ module.exports = {
 
   // The folder that you are to share publicly with onedrive-cf-index-ng. Use '/' if you want to share your root folder.
   // baseDirectory: '/Backups_NWAFU/05.其它备份/',
-  baseDirectory: '/',
+  baseDirectory: '/Backups_NWAFU/Others/',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
